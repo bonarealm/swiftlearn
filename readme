@@ -1,0 +1,31 @@
+macos m1
+
+c++执行结果
+
+fib 运行结果：6765
+fib 运行时间：0.055ms
+Program ended with exit code: 0
+
+swift执行结果
+
+fib 运行结果：6765
+运行时间：0.1900196075439453
+Program ended with exit code: 0
+
+两个同样算法复杂度的运算，耗时时间差了4倍。
+
+intel macos
+
+c++执行结果
+fib 运行结果：6765
+fib 运行时间：0.044ms
+Program ended with exit code: 0
+
+swift执行结果
+
+fib 运行结果：6765
+运行时间：0.4259347915649414
+Program ended with exit code: 0
+
+两个同样算法复杂度的运算，耗时时间差了接近10倍。
+
